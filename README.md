@@ -8,4 +8,6 @@ Olá! Meu nome é João mas meu apelido é Jota, tenho 18 anos e curso Ciência 
 # 💻 Idiomas estudados:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+link do site feito em HTML: http://127.0.0.1:5500/index.html#contato
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
